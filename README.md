@@ -1,4 +1,4 @@
-# VehicleManager
+# CarWallet
 
 Aplicação para registro e gerenciamento de veículos pessoais, com autenticação JWT. Permite cadastro de usuários, login seguro, cadastro/listagem/atualização/remoção de carros e registro de manutenções.
 
